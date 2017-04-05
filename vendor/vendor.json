@@ -1,0 +1,6 @@
+{
+    "rootPath": "github.com/idiomatic/rbrian.bit",
+    "heroku": {
+        "goVersion": "go1.8"
+    },
+}
