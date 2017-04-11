@@ -1,0 +1,11 @@
+{
+    "info": {
+        "registrar": "dotbit.me",
+        "registrar-email": "admin@dotbit.me"
+    },
+    "map": {
+        "": {
+            "alias": "rbrian.bit.herokudns.com."
+        }
+    }
+}
